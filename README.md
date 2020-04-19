@@ -1,7 +1,7 @@
 
     #Developer Info:
     evigliucci
-    evigliucci@gmail.com
+    test@test.com
     https://avatars2.githubusercontent.com/u/16843294?v=4
     
     #Table of Contents
@@ -15,29 +15,28 @@
     [License](#License)
 
     #Badges:
-    [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/evigliucci/project-title)
+    [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/evigliucci/test)
 
     #Project-Title:
-    Project Title
+    test
 
     #Description:
-    Project Description
+    test
 
     #Installation:
-    How to install
+    test
   
     #Usage
-    How to install
+    test
 
     #Contributions
-    How to install
+    test
 
     #Tests
     //npm run test
     //provide a default
-    Jest - npm run test
+    test
 
     #License:
-    ## License
-            This project is licensed under the MIT license.
+    This project is licensed under the MIT license.
     

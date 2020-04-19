@@ -52,7 +52,7 @@ const questions = [{
 ];
 
 function writeToFile(data) {
-    fs.writeFile("goodreadme.md", data, function(err) {
+    fs.writeFile("README.md", data, function(err) {
 
         if (err) {
             throw err;
