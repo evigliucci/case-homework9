@@ -22,47 +22,47 @@ function renderLicenseSection(license) {
 // Development will happen in generate markdown
 function generateMarkdown(response, data) {
     return `
-    # Developer Info:
-    ${response.username}
-    ${response.email}
-    ${data.data.avatar_url}
-    
-    # Table of Contents
-    [Badges](#Badges)
-    [Title](#Project-Title)
-    [Description](#Description)
-    [Installation](#Installation)
-    [Usage](#Usage)
-    [Contributions](#Contributions)
-    [Tests](#Tests)
-    [License](#License)
+# Developer Info:
+${response.username}
+${response.email}
+${data.data.avatar_url}
 
-    # Badges:
-    ${renderLicenseBadge(response.license, response.username, response.title)}
+# Table of Contents
+[Badges](#Badges)
+[Title](#Project-Title)
+[Description](#Description)
+[Installation](#Installation)
+[Usage](#Usage)
+[Contributions](#Contributions)
+[Tests](#Tests)
+[License](#License)
 
-    # Project-Title:
-    ${response.title}
+# Badges:
+${renderLicenseBadge(response.license, response.username, response.title)}
 
-    # Description:
-    ${response.description}
+# Project-Title:
+${response.title}
 
-    # Installation:
-    ${response.installation}
-  
-    # Usage
-    ${response.installation}
+# Description:
+${response.description}
 
-    # Contributions
-    ${response.installation}
+# Installation:
+${response.installation}
 
-    # Tests
-    //npm run test
-    //provide a default
-    ${response.tests}
+# Usage
+${response.installation}
 
-    # License:
-    ${renderLicenseSection(response.license)}
-    `;
+# Contributions
+${response.installation}
+
+# Tests
+//npm run test
+//provide a default
+${response.tests}
+
+# License:
+${renderLicenseSection(response.license)}
+`;
 }
 
 module.exports = generateMarkdown;

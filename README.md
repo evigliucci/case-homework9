@@ -1,42 +1,41 @@
 
-    # Developer Info:
-    evigliucci
-    test@test.com
-    https://avatars2.githubusercontent.com/u/16843294?v=4
-    
-    # Table of Contents
-    [Badges](#Badges)
-    [Title](#Project-Title)
-    [Description](#Description)
-    [Installation](#Installation)
-    [Usage](#Usage)
-    [Contributions](#Contributions)
-    [Tests](#Tests)
-    [License](#License)
+# Developer Info:
+evigliucci
+erika@test.com
+https://avatars2.githubusercontent.com/u/16843294?v=4
 
-    # Badges:
-    [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/evigliucci/test)
+# Table of Contents
+[Badges](#Badges)
+[Title](#Project-Title)
+[Description](#Description)
+[Installation](#Installation)
+[Usage](#Usage)
+[Contributions](#Contributions)
+[Tests](#Tests)
+[License](#License)
 
-    # Project-Title:
-    test
+# Badges:
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/evigliucci/test)
 
-    # Description:
-    test
+# Project-Title:
+test
 
-    # Installation:
-    test
-  
-    # Usage
-    test
+# Description:
+y
 
-    # Contributions
-    test
+# Installation:
+y
 
-    # Tests
-    //npm run test
-    //provide a default
-    test
+# Usage
+y
 
-    # License:
-    This project is licensed under the MIT license.
-    
+# Contributions
+y
+
+# Tests
+//npm run test
+//provide a default
+y
+
+# License:
+This project is licensed under the MIT license.
