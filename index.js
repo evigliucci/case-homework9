@@ -41,7 +41,8 @@ const questions = [{
     {
         type: "input",
         message: "Enter Command to run tests",
-        name: "tests"
+        name: "tests",
+        default: 'No Testing Implemented',
     },
     {
         type: "list",

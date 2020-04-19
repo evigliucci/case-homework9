@@ -50,8 +50,6 @@ ${response.installation}
 ${response.installation}  
 
 ## Tests
-//npm run test
-//provide a default
 ${response.tests}  
 
 ## License:

@@ -1,5 +1,5 @@
 
-# Auto Generated Readme :  
+# Project Title:  
 
 ## Table of Contents
 [Badges](#Badges)  
@@ -12,10 +12,10 @@
 [License](#License)  
 
 ## Badges:
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/evigliucci/auto-generated-readme-)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/evigliucci/project-title)
 
 ## Description:
-test  
+Desc  
 
 ## Installation:
 test  
@@ -27,8 +27,6 @@ test
 test  
 
 ## Tests
-//npm run test
-//provide a default
 test  
 
 ## License:
