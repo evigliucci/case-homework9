@@ -44,10 +44,10 @@ ${response.description}
 ${response.installation}  
 
 ## Usage
-${response.installation}  
+${response.usage}  
 
 ## Contributing to this Project
-${response.installation}  
+${response.contributing}  
 
 ## Tests
 ${response.tests}  

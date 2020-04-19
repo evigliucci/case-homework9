@@ -15,19 +15,19 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/evigliucci/node-readme.md-generator)
 
 ## Description:
-command-line application that dynamically generates a README.md   
+Command-line application that dynamically generates a README.md  
 
 ## Installation:
 npm i  
 
 ## Usage
-npm i  
+node index.js  
 
 ## Contributing to this Project
-npm i  
+ template for writing your own contributing guide. Contributing guides are helpful documents that communicate how people can contribute to your open source project.   
 
 ## Tests
-No tests are setup  
+No tests are setup
 
 ## License:
 This project is licensed under the MIT license.  
@@ -36,4 +36,3 @@ This project is licensed under the MIT license.
 Github User Name: evigliucci  
 Github Email: evigliucci@gmail.com  
 ![Profile Image](https://avatars2.githubusercontent.com/u/16843294?v=4)
-
