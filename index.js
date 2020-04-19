@@ -53,7 +53,6 @@ const questions = [{
 
 function writeToFile(data) {
     fs.writeFile("README.md", data, function(err) {
-
         if (err) {
             throw err;
         }
@@ -61,8 +60,6 @@ function writeToFile(data) {
 }
 
 function init() {
-    //build out intialize
-
     inquirer.prompt(questions)
         .then(function(response) {
             api.getUser(response.username)
