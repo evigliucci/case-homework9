@@ -46,7 +46,7 @@ ${response.installation}
 ## Usage
 ${response.installation}  
 
-## Contributions
+## Contributing to this Project
 ${response.installation}  
 
 ## Tests

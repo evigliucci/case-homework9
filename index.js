@@ -15,12 +15,12 @@ const questions = [{
     },
     {
         type: "input",
-        message: "Your project’s title is the first thing people will see upon scrolling down to your README. - What is your project's title?",
+        message: "Enter a project title",
         name: "title"
     },
     {
         type: "input",
-        message: "A good description is clear, short, and to the point. Describe the importance of your project, and what it does. - Enter a description of your project.",
+        message: "Enter a description of your project.",
         name: "description"
     },
     {
@@ -30,23 +30,23 @@ const questions = [{
     },
     {
         type: "input",
-        message: "Instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.",
+        message: "Explain how to use your project after they’ve installed it.",
         name: "usage"
     },
     {
         type: "input",
-        message: "If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work.",
+        message: "Explain your contribution preferences",
         name: "contributing"
     },
     {
         type: "input",
-        message: "Enter Command to run tests",
+        message: "Enter command to run tests",
         name: "tests",
-        default: 'No Testing Implemented',
+        default: 'No tests are setup',
     },
     {
         type: "list",
-        message: "License",
+        message: "Select your license",
         name: "license",
         choices: ['MIT', 'Apache', 'GPL', 'None']
     },
