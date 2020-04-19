@@ -22,12 +22,12 @@ function renderLicenseSection(license) {
 // Development will happen in generate markdown
 function generateMarkdown(response, data) {
     return `
-    #Developer Info:
+    # Developer Info:
     ${response.username}
     ${response.email}
     ${data.data.avatar_url}
     
-    #Table of Contents
+    # Table of Contents
     [Badges](#Badges)
     [Title](#Project-Title)
     [Description](#Description)
@@ -37,30 +37,30 @@ function generateMarkdown(response, data) {
     [Tests](#Tests)
     [License](#License)
 
-    #Badges:
+    # Badges:
     ${renderLicenseBadge(response.license, response.username, response.title)}
 
-    #Project-Title:
+    # Project-Title:
     ${response.title}
 
-    #Description:
+    # Description:
     ${response.description}
 
-    #Installation:
+    # Installation:
     ${response.installation}
   
-    #Usage
+    # Usage
     ${response.installation}
 
-    #Contributions
+    # Contributions
     ${response.installation}
 
-    #Tests
+    # Tests
     //npm run test
     //provide a default
     ${response.tests}
 
-    #License:
+    # License:
     ${renderLicenseSection(response.license)}
     `;
 }
